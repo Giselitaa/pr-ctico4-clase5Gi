@@ -1,0 +1,55 @@
+body {background-color: pink;
+background-image: url(../imagenes/varios.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: 95% 5%;}
+
+header {background-color: gray;}
+header{border: 5px black solid;}
+header {display: flex;
+justify-content: space-around;
+align-items: center;
+flex-wrap: wrap;}
+.fotoprincipal {height: 375px;}
+nav {display: flex;
+justify-content: space-around;
+align-items: center;}
+section {display: flex;
+justify-content: center;}
+aside{display: flex;
+justify-content: center;}
+
+
+footer{display: flex;
+justify-content: space-around;
+align-items: center;
+flex-wrap: wrap;}
+
+
+nav{background-color: ;}
+section {background-color: gray;}
+section {height: 200px;
+   overflow: auto;}
+   aside{background-color: gray;}
+   
+
+
+.redesF {height: 35px;}
+.redesI {height: 35px;}
+.redesT {height: 35px;}
+
+.logo {height: 80px;}
+
+
+.iconowhats {width: 50px;
+  position: fixed;
+  bottom: 10px;
+  right: 15px;
+  }
+.rojoletra {color: black;
+font-size:50px;
+text-decoration: underline;}
+
+ .parrafo {color: pink;
+    text-decoration: underline;}
+.parrafoss {text-align:center;}
